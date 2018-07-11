@@ -2,9 +2,6 @@ package br.com.zedanilo.socket_do_zelao;
 
 import android.graphics.Bitmap;
 
-/**
- * Created by sreejeshpillai on 10/05/15.
- */
 public class Message {
 
     public static final int TYPE_MESSAGE = 0;
